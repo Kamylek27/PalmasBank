@@ -5,13 +5,13 @@ This is the Web Application Online System Banking
 
 ## Features
 
-* Create Bank Account.
-* Deposit & Withdraw Money.
+* Create Bank Account
+* Deposit & Withdraw Money
 * Transfer between accounts
-* Bank Account Type Support(Primary Account, Saving Account).
-* Report with a date range filter.
-* Possibility to make an appointment.
-* Balance.
+* Bank Account Type Support(Primary Account, Saving Account)
+* Report with a date range filter
+* Possibility to make an appointment
+* Balance
 * Extensive use of Spring Framework, Spring MVC, Spring Security, Spring Data (Hibernate)
 
 ## Technologies
