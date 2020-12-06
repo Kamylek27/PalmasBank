@@ -5,22 +5,21 @@ This is the Web Application Online System Banking
 
 ## Features
 
-* Create Bank Account.
+* Creating Bank Account.
 * Deposit & Withdraw Money.
 * Transfer between accounts
 * Bank Account Type Support(Primary Account, Saving Account).
 * Report with a date range filter.
 * Possibility to make an appointment.
 * See balance.
-* Extensive use of Spring Framework, Spring MVC, Spring Security, Spring Data (Hibernate)
 
 ## Technologies
 
 * Java
 * HTML/CSS/JavaScript
 * MySQL
-* Spring Framework 
-* Spring Boot
+* Extensive use of Spring Framework: Spring MVC, Spring Security, Spring Data (Hibernate),Spring Boot
+
 
 ## Prerequisites
 
